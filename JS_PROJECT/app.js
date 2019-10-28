@@ -43,3 +43,4 @@ person.Ismarried = false;
 // console.clear();
 console.log("Git is awesome"); //learning to git
 console.log(`string template isn't difficult to understand`);
+document.querySelector(".lead").style.color = "red";
