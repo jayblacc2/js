@@ -6,6 +6,7 @@
 // console.log(name + " " + lname);
 // console.log("Hello World from me");
 // console.log(9 + 2);
+document.querySelector(".lead").style.color = "green";
 // console.log(false || true);
 // console.log(["Ant", "Bird", "Spider"]);
 // console.log({ a: "bird", b: 2, c: false });
@@ -43,4 +44,3 @@ person.Ismarried = false;
 // console.clear();
 console.log("Git is awesome"); //learning to git
 console.log(`string template isn't difficult to understand`);
-document.querySelector(".lead").style.color = "red";
